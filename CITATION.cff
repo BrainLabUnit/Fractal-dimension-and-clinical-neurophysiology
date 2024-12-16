@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data in your work, please cite our paper as follows."
+authors:
+  - family-names: Moaveninejad
+    given-names: Sadaf
+    affiliation: Department of Neuroscience and Padova Neuroscience Center, University of Padova
+    orcid: https://orcid.org/0000-0003-2144-4412  # Replace with your actual ORCID
+  - family-names: Cauzzo
+    given-names: Simone
+    orcid: https://orcid.org/0000-0002-9237-5269
+    affiliation: Parkinson Disease and Movement Disorders Unit, Center for Rare Neurological Disease (ERN-END), Department of Neuroscience, University of Padova
+- family-names: Porcaro
+    given-names: Camillo
+    orcid: https://orcid.org/0000-0003-4847-163X
+    affiliation: Department of Neuroscience and Padova Neuroscience Center, University of Padova, Institute of Cognitive Sciences and Technologies (ISTC)—National Research Council (CNR), Centre for Human Brain Health, School of Psychology, University of Birmingham
+title: "Fractal dimension and clinical neurophysiology fusion to gain a deeper brain signal understanding: a Systematic Review"
+version: 1.0.0
+doi: "10.1234/example.doi"  # Replace with actual DOI if available
+url: "https://github.com/sadafmoaveninejad/Fractal-dimension-and-clinical-neurophysiology"
+date-released: 2024-12-01  # Adjust based on the paper's publication date
