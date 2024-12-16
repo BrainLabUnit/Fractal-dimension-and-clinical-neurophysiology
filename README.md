@@ -42,10 +42,10 @@ The results include methods like **sPSD, DFA, HE, HFD, and KFD** applied to **WC
 Figures illustrate the step-by-step process of **Higuchi’s FD method**, offering an intuitive understanding of its application and significance.
 
 ---
-### Sample Output from `main_Comparative.py`:
+### Sample Output from `fGn_fBm_TLK_wsc.py`:
 ![fGn_fBm_TLK_wsc](figures/fGn_fBm_WCF_TLF.png)
 
-### Sample Output from `main_Higuchi.py`:
+### Sample Output from `Stationary_vs_Non_Stationary.py`:
 ![Stationary_vs_Non_Stationary](figures/Staionary_NonStationary.png)
 
 ---
