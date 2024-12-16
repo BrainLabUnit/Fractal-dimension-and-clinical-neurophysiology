@@ -43,10 +43,10 @@ Figures illustrate the step-by-step process of **Higuchi’s FD method**, offeri
 
 ---
 ### Sample Output from `main_Comparative.py`:
-![Comparative FD Estimation](figures/fGn_fBm_WCF_TLF.png)
+![fGn_fBm_TLK_wsc](figures/fGn_fBm_WCF_TLF.png)
 
 ### Sample Output from `main_Higuchi.py`:
-![Higuchi Method](figures/Staionary_NonStationary.png)
+![Stationary_vs_Non_Stationary](figures/Staionary_NonStationary.png)
 
 ---
 ## How to Run the Code
