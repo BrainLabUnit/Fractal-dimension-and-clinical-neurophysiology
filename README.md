@@ -53,5 +53,5 @@ Figures illustrate the step-by-step process of **Higuchi’s FD method**, offeri
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/sadafmoaveninejad/Fractal-dimension-and-clinical-neurophysiology.git
+   git clone https://github.com/BrainLabUnit/Fractal-dimension-and-clinical-neurophysiology.git
    cd Fractal-dimension-and-clinical-neurophysiology
